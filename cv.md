@@ -12,6 +12,7 @@
 
 ---
 ### About me
+I'm 19 years old. At the moment I'm a 3rd year student of the specialty "Computer engineering and software". Before that, I did not participate in any programming courses.  From this course I want to gain an understanding of the principles of building web applications and their architectural features. I am also looking forward to working on real projects to consolidate theoretical knowledge and develop practical skills.
 
 
 ---
@@ -75,6 +76,8 @@ Intern ITS (Information Technology Service) [JSC «Transtelecom» Karaganda](htt
 ---
 ### Education
 University: [Abylkas Saginov Karaganda Technical University](https://www.kstu.kz/abylkas-saginov-karaganda-technical-university/?lang=en)
+
+Computer engineering and software (3 course)
 
 ---
 ### Languages
