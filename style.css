@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: sienna;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #E1D4C9;
+  color: #403F3D;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  max-width: 980px;
+  margin:0 auto;
+}
+
+.center{
+  background-color: whitesmoke;
+  padding: 5px 10px;
+}
+
+.rs-school-logo{
+  max-width: 10%;
+}
+
+.my-photo{
+  max-width: 20%;
+}
